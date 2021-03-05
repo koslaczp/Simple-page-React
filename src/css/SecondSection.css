@@ -1,0 +1,27 @@
+.secondShow{
+	display: flex !important;
+	margin-bottom: 5vh;
+}
+
+
+
+.center50{
+	text-align: center;
+	margin:auto;
+	width:53vw;
+}
+
+.SecondSection
+{
+	color: black;
+}
+
+.SecondSection h1{
+	padding-top: 1em;
+}
+
+.SecondSection p{
+	padding-bottom: 1em;
+}
+
+
